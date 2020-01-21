@@ -1,0 +1,7 @@
+﻿7777,Ann,A,Apples,2,500
+1111,Bob,B,Brown,0,700
+3333,Charlie,C,Chan,1,400
+4444,Dan,D,Davis,0,100
+2222,Eddie,E,Edward,2,600
+6666,Frank,F,Freeze,1,300
+5555,Gail,G,Global,0,200
