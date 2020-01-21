@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBLab5", "VBLab5\VBLab5.vbproj", "{15ACE68B-1141-44AC-8C83-8495674BF787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15ACE68B-1141-44AC-8C83-8495674BF787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ACE68B-1141-44AC-8C83-8495674BF787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ACE68B-1141-44AC-8C83-8495674BF787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ACE68B-1141-44AC-8C83-8495674BF787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD858FD5-D170-4F23-8CAE-7A4F94660115}
+	EndGlobalSection
+EndGlobal
