@@ -1,0 +1,11 @@
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\bin\Release\VBLab1.exe.config
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\bin\Release\VBLab1.exe
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\bin\Release\VBLab1.pdb
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\bin\Release\VBLab1.xml
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.Form1.resources
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.Resources.resources
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.vbproj.GenerateResource.Cache
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.vbproj.CoreCompileInputs.cache
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.exe
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.xml
+D:\CSC208-58\CSC208VisualBasic\VBLab1\VBLab1\obj\Release\VBLab1.pdb

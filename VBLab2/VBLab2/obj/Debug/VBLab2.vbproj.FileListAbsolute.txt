@@ -1,0 +1,11 @@
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\bin\Debug\VBLab2.exe.config
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\bin\Debug\VBLab2.exe
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\bin\Debug\VBLab2.pdb
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\bin\Debug\VBLab2.xml
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.vbprojResolveAssemblyReference.cache
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.Form1.resources
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.Resources.resources
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.vbproj.GenerateResource.Cache
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.exe
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.xml
+E:\CSC208-58\CSC208VisualBasic\VBLab2\VBLab2\obj\Debug\VBLab2.pdb
