@@ -1,0 +1,36 @@
+F:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe.config
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe.config
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.pdb
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.xml
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbprojResolveAssemblyReference.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Form1.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Resources.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbproj.GenerateResource.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbproj.CoreCompileInputs.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.exe
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.xml
+D:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.pdb
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe.config
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.exe
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.xml
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.pdb
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.pdb
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.xml
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbprojResolveAssemblyReference.cache
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Form1.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Resources.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbproj.GenerateResource.Cache
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe.config
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.exe
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.pdb
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\bin\Debug\VBlab11.xml
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbprojAssemblyReference.cache
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Form1.resources
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.Resources.resources
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbproj.GenerateResource.cache
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.vbproj.CoreCompileInputs.cache
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.exe
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.xml
+E:\CSC 208-58\CSC208VisualBasic\VBlab11\VBlab11\VBlab11\obj\Debug\VBlab11.pdb
