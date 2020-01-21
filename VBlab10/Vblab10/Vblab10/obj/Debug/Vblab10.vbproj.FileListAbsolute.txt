@@ -1,0 +1,31 @@
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\CSC208SuppliesDatabase.mdb
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.exe.config
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.exe
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.pdb
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.xml
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.vbprojResolveAssemblyReference.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.Resources.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.vbproj.GenerateResource.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.vbproj.CoreCompileInputs.cache
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.exe
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.xml
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.pdb
+D:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.ViewAllRecord.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab10\VBlab10\Vblab10\obj\Debug\Vblab10.DatabaseAccess.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab10\VBlab10\Vblab10\obj\Debug\Vblab10.Add.resources
+D:\CSC208-58\CSC208VisualBasic\VBlab10\VBlab10\Vblab10\obj\Debug\Vblab10.Find.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.exe.config
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.exe
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.xml
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.pdb
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.vbprojResolveAssemblyReference.cache
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.DatabaseAccess.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.Add.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.Find.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.Resources.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.ViewAllRecord.resources
+E:\CSC208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.vbproj.GenerateResource.Cache
+F:\CSC 208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\bin\Debug\Vblab10.exe.config
+F:\CSC 208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.exe
+F:\CSC 208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.xml
+F:\CSC 208-58\CSC208VisualBasic\VBlab10\Vblab10\Vblab10\obj\Debug\Vblab10.pdb
